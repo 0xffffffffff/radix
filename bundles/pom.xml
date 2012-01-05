@@ -142,7 +142,8 @@
 					<version>2.6</version>
 					<configuration>
 						<testFailureIgnore>true</testFailureIgnore>
-						<junitArtifactName>org.junit:com.springsource.org.junit</junitArtifactName>
+						<junitArtifactName>com.springsource.org.junit</junitArtifactName>
+						<!-- junitArtifactName>org.junit:com.springsource.org.junit</junitArtifactName-->						
 					</configuration>
 				</plugin>
 			</plugins>
